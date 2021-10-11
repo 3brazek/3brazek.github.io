@@ -3,7 +3,7 @@ window.playername = "3brazek";
 
 /*----- DNS -----*/
 //Iptv provider dns url (for example "http://domain.com:80")
-window.dns = "http://link4tv.biz:2082";
+window.dns = "http://iptvmedia.live:8080";
 
 /*----- CORS -----*/
 /*/ Change on false if iptv provider has the Access-Control-Allow-Origin set on "*" or allows your player domain.
